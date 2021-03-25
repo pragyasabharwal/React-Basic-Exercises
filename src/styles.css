@@ -1,0 +1,32 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+button {
+  margin: 1em;
+  background-color: #1da1f2;
+  color: white;
+  border: none;
+  border-radius: 0.5em;
+  padding: 0.8em;
+}
+.Counter {
+  border: 1px solid black;
+  margin: 1em;
+  padding: 1em;
+}
+.CharacterCount {
+  border: 1px solid black;
+  margin: 1em;
+  padding: 1em;
+}
+.PasswordMatch {
+  border: 1px solid black;
+  margin: 1em;
+  padding: 1em;
+}
+.ShowPassword {
+  border: 1px solid black;
+  margin: 1em;
+  padding: 1em;
+}
